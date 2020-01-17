@@ -2,4 +2,5 @@ git status
 #######it will show the changes
 git add file_name
 git commit -m "your message so that you can remember about that file whenever you want"
-
+####now if u make some changes in the file then
+git add file_name
