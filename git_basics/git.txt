@@ -13,3 +13,8 @@ git add remote origin  add_your_repo_ssh_url
 git config --global user.email"you@gmail.com"
 git config --global user.name"your name"
 
+git checkout -b branch_name   #make a new branch
+
+git checkout brannch_name       #change branch
+
+git branch      #show all branches
