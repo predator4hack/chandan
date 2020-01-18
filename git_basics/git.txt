@@ -4,3 +4,12 @@ git add file_name
 git commit -m "your message so that you can remember about that file whenever you want"
 ####now if u make some changes in the file then
 git add file_name
+
+
+git add remote origin  add_your_repo_ssh_url
+
+###get remote connection through email and username
+
+git config --global user.email"you@gmail.com"
+git config --global user.name"your name"
+
